@@ -1,6 +1,6 @@
 # SAI KOUSHIK THATIPAMULA
-Hello everyone, I am Sai Koushik, I have over two years of experience as a Quality Assurance Analyst. I love to spend my weekends playing racketball and badminton.
+Sai Koushik Thatipamula is pursuing a Master's in Business Analytics and Information Systems at the University of South Florida, with a strong background as a Quality Data Analyst. He has over two years of experience in data analysis, and enjoys playing badminton and racquetball in his free time.
 
-![Alt text][saikoushik-image.png]
+![Alt text][saikoushik-image.jpg]
 
-[saikoushik-image.png]: saikoushik-image.jpg
+[saikoushik-image.jpg]: saikoushik-image.jpg
